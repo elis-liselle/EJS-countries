@@ -1,0 +1,13 @@
+li {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+#info {
+  width: 40%;
+}
+
+#flag {
+  width: 50%;
+  border: solid black 1px;
+}
